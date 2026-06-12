@@ -1,0 +1,26 @@
+NovaPay Refund Policy
+
+Effective Date: January 1, 2024
+
+1. Eligibility for Refunds
+Customers may request a refund within 30 days of the original transaction date. Refunds are only available for transactions processed through the NovaPay platform.
+
+2. Refund Process
+To initiate a refund, merchants must log in to the NovaPay dashboard and navigate to the Transactions section. Select the transaction and click "Issue Refund." Refunds can be full or partial.
+
+Alternatively, merchants can use the NovaPay API endpoint POST /v1/refunds with the transaction ID and refund amount in the request body.
+
+3. Refund Timeline
+- Credit/debit card refunds: 5–10 business days to appear on the customer's statement.
+- Wallet refunds: Within 24 hours.
+- Bank transfer refunds: 3–7 business days.
+
+4. Non-Refundable Items
+- Transaction fees charged by NovaPay are non-refundable.
+- Refunds for digital goods or services are subject to merchant discretion.
+
+5. Disputes and Chargebacks
+If a customer disputes a charge directly with their bank (chargeback), NovaPay will freeze the disputed funds pending investigation. Merchants have 7 days to provide evidence to contest the chargeback. Uncontested chargebacks result in a $15 chargeback fee deducted from the merchant's account.
+
+6. Contact
+For refund-related questions, contact NovaPay support at support@novapay.example.com or call +1-800-NOVAPAY.

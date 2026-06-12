@@ -1,0 +1,25 @@
+NovaPay Support FAQ
+
+Q: How do I sign up for NovaPay?
+A: Visit novapay.example.com and click "Get Started." You will need to provide your business name, tax ID, bank account details, and complete identity verification. Approval typically takes 1–2 business days.
+
+Q: What payment methods does NovaPay support?
+A: NovaPay supports Visa, Mastercard, American Express, Discover, Apple Pay, Google Pay, and bank transfers (ACH in the US, SEPA in Europe). Additional local payment methods are available in select regions.
+
+Q: How do I integrate NovaPay into my website?
+A: NovaPay provides a REST API and JavaScript SDK. Full documentation is available at docs.novapay.example.com. Pre-built plugins are available for WooCommerce, Shopify, and Magento.
+
+Q: What are the transaction limits?
+A: Standard accounts can process up to $10,000 per transaction and $50,000 per day. Pro and Enterprise accounts have higher limits. Contact support to request a limit increase.
+
+Q: How do I handle failed payments?
+A: Failed payments appear in your dashboard under "Failed Transactions." NovaPay automatically retries failed card payments up to 3 times over 48 hours. You can also manually retry or send a payment link to the customer.
+
+Q: Is NovaPay available in my country?
+A: NovaPay currently operates in 35 countries across North America, Europe, Asia-Pacific, and Latin America. Check the full list at novapay.example.com/countries.
+
+Q: How do I contact NovaPay support?
+A: Support is available via live chat in the dashboard (business hours Mon–Fri 9 AM–6 PM SGT), email at support@novapay.example.com, or phone at +1-800-NOVAPAY. Pro and Enterprise customers have access to 24/7 priority support.
+
+Q: Can I issue partial refunds?
+A: Yes. Partial refunds can be issued through the dashboard or API. The minimum partial refund amount is $0.50. Multiple partial refunds can be issued for a single transaction as long as the total does not exceed the original transaction amount.

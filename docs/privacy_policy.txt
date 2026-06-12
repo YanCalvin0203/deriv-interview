@@ -1,0 +1,34 @@
+NovaPay Privacy Policy
+
+Last Updated: March 15, 2024
+
+1. Information We Collect
+NovaPay collects the following types of data from merchants and their customers:
+- Personal identification information: name, email address, phone number, billing address.
+- Payment information: card numbers (stored in tokenized form only), bank account details.
+- Device and usage data: IP address, browser type, transaction history, and login timestamps.
+
+2. How We Use Your Information
+- To process payments and issue refunds.
+- To detect and prevent fraud.
+- To comply with legal and regulatory obligations.
+- To improve our services through aggregated analytics.
+- To send transactional notifications and, where opted in, marketing communications.
+
+3. Data Storage and Security
+All data is encrypted at rest using AES-256 and in transit using TLS 1.3. NovaPay is PCI DSS Level 1 compliant. Sensitive payment data is never stored directly on NovaPay servers — it is tokenized via our secure vault partner.
+
+4. Data Sharing
+NovaPay does not sell personal data. We share data only with:
+- Payment processors and banking partners required to complete transactions.
+- Regulatory bodies when required by law.
+- Third-party analytics providers under strict data processing agreements.
+
+5. Data Retention
+Transaction records are retained for 7 years to comply with financial regulations. Account data is deleted within 90 days of account closure upon request.
+
+6. User Rights
+Merchants and their customers may request data access, correction, or deletion by contacting privacy@novapay.example.com. Requests are processed within 30 days.
+
+7. Cookies
+NovaPay uses essential cookies for session management and optional analytics cookies. Users can manage cookie preferences via the NovaPay dashboard settings.

@@ -1,0 +1,17 @@
+Product Overview: NovaPay
+
+NovaPay is a fictional digital payment platform designed for small and medium-sized businesses. It enables merchants to accept payments online, in-store, and via mobile devices.
+
+Key Features:
+- Multi-currency support: NovaPay supports over 40 currencies, including USD, EUR, GBP, JPY, and AUD.
+- Instant settlements: Merchants receive funds within 24 hours of a completed transaction.
+- Fraud detection: NovaPay uses machine learning models to flag suspicious transactions in real time.
+- API-first design: Developers can integrate NovaPay into any platform using the REST API or SDK.
+- Dashboard: A web-based analytics dashboard provides real-time transaction monitoring, sales trends, and refund management.
+
+Pricing:
+- Standard plan: 2.5% + $0.30 per transaction.
+- Pro plan: 1.8% + $0.20 per transaction, with advanced analytics and priority support.
+- Enterprise plan: Custom pricing negotiated directly with the NovaPay sales team.
+
+NovaPay was founded in 2018 and is headquartered in Singapore. The platform currently serves over 50,000 merchants globally.
